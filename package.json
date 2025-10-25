@@ -1,6 +1,6 @@
 {
   "name": "google-fonts-url-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easily generate Google Fonts URLs for all styles of a font family",
   "keywords": [
     "google-fonts",
